@@ -13,5 +13,6 @@ public class largestnum {
     public static void main(String[] args) {
         int numbers[] ={0,-2,-4,-7};
         System.out.println("iargest value is "+ L_num(numbers));
+        System.out.println("iargest value is "+ L_num(numbers));
     }
 }
